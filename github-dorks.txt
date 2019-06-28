@@ -78,4 +78,4 @@ filename:.ftpconfig
 filename:.remote-sync.json
 filename:sftp.json path:.vscode
 filename:WebServers.xml
-
+"Company name" send_keys or sendkeys
